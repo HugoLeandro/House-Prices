@@ -1,4 +1,4 @@
-# House-Prices
+# House Prices Kaggle
 Técnicas Avançadas de Regressão
 
 <img src="https://github.com/HugoLeandro/House-Prices/blob/main/Imagens/kaggle_5407_media_housesbanner.png" width=800/>
