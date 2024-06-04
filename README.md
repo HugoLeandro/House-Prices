@@ -20,6 +20,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRe
 ## Avaliação dos Modelos: A performance dos modelos foi avaliada utilizando as seguintes métricas:
 Erro Médio Absoluto (MAE):
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html
+
 Erro Quadrático Médio (MSE):
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
 
