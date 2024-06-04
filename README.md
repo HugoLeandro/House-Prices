@@ -1,6 +1,7 @@
 # House-Prices
 Técnicas Avançadas de Regressão
 
+<img scr="https://github.com/HugoLeandro/House-Prices/blob/main/Imagens/kaggle_5407_media_housesbanner.png"/>
 
 
 Esse modelo foi criado para explicar o projeto do kaggle:
